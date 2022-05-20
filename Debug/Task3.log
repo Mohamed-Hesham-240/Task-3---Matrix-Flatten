@@ -1,0 +1,7 @@
+﻿  Task3.cpp
+C:\Users\dell\Desktop\prjoects\Task3\Task3.cpp(18,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\Desktop\prjoects\Task3\Task3.cpp(9): message : while compiling class template member function 'FlatVector<int>::FlatVector(std::vector<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>,std::allocator<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>>> &)'
+C:\Users\dell\Desktop\prjoects\Task3\Task3.cpp(63): message : see reference to function template instantiation 'FlatVector<int>::FlatVector(std::vector<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>,std::allocator<std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>>> &)' being compiled
+C:\Users\dell\Desktop\prjoects\Task3\Task3.cpp(63): message : see reference to class template instantiation 'FlatVector<int>' being compiled
+C:\Users\dell\Desktop\prjoects\Task3\Task3.cpp(19,2): warning C4018: '<': signed/unsigned mismatch
+  Task3.vcxproj -> C:\Users\dell\Desktop\prjoects\Task3\Debug\Task3.exe
